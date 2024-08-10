@@ -1,0 +1,1 @@
+The repository contains files from task 2, 3, 4 and 5. The task 5 follows usage of a binary and multiclass classification for a classical and a quantum solution for the entire dataset. We compare the results between the classical and quantum models to benchmark our work using the mentioned techniques.
